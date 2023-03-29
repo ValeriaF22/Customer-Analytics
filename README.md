@@ -26,6 +26,5 @@ Project is created with:
 
 ## Articles 
 Check the articles here:
-[Medium Article](https://medium.com/@daython3/segmenting-customer-groups-a-comparative-study-of-hierarchical-and-k-means-clustering-methods-for-f35946d52810)
-
-[Personal Website Article](https://vfilippou22.wixsite.com/valeria/segmenting-customer-groups)
+* [Medium Article](https://medium.com/@daython3/segmenting-customer-groups-a-comparative-study-of-hierarchical-and-k-means-clustering-methods-for-f35946d52810)
+* [Personal Website Article](https://vfilippou22.wixsite.com/valeria/segmenting-customer-groups)
